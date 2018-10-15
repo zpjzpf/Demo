@@ -13,6 +13,7 @@ import java.util.stream.Collectors;
 
 public class Main {
 	public static void main(String[] args) throws Exception {
+		// test
 	List<TPo> list = new ArrayList<>();
 		TPo t1 = new TPo();
 		t1.setTest(1L);
